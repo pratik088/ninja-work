@@ -1,2 +1,2 @@
-# Demo-repository
-This is demo project to learn GIT
+# Ninja Work
+This is demo project to learn Git and become Git Ninja.
